@@ -1,0 +1,20 @@
+# MCU 工程常见输出
+build/
+dist/
+out/
+
+# 编辑器/系统文件
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+Desktop.ini
+
+# STM32CubeIDE / Keil / IAR 等（按需再补）
+*.launch
+*.uvoptx
+*.uvprojx
+*.ewp
+*.eww
+*.ewd
+
