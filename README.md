@@ -40,6 +40,10 @@
 - `docs/debug_stlink.md`
 - 常见问题：`docs/troubleshooting.md`
 
+5) （可选）PC 串口控制工具
+
+- `tools/README.md`
+
 ## 重要提醒（强烈建议读）
 
 - 舵机电源必须独立（5~6V 大电流），不要用开发板 5V 给舵机供电。
